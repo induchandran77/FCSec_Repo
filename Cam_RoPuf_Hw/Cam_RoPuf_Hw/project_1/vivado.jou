@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon Sep  2 09:58:49 2024
+# Process ID: 3324
+# Current directory: C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20988 C:\Users\Booh\OneDrive\Documents\FPGA-Cam\Final_Copy\Cam_RoPuf_Hw\Cam_RoPuf_Hw\project_1\project_1.xpr
+# Log file: C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1/vivado.log
+# Journal file: C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1/project_1.runs/impl_1/system_wrapper.bit} [get_hw_devices xc7z020_1]
+set_property PROBES.FILE {C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1/project_1.runs/impl_1/system_wrapper.ltx} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1/project_1.runs/impl_1/system_wrapper.ltx} [get_hw_devices xc7z020_1]
+current_hw_device [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]
+set_property PROBES.FILE {C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1/project_1.runs/impl_1/system_wrapper.ltx} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1/project_1.runs/impl_1/system_wrapper.ltx} [get_hw_devices xc7z020_1]
+set_property PROGRAM.FILE {C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Cam_RoPuf_Hw/Cam_RoPuf_Hw/project_1/project_1.runs/impl_1/system_wrapper.bit} [get_hw_devices xc7z020_1]
+program_hw_devices [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]

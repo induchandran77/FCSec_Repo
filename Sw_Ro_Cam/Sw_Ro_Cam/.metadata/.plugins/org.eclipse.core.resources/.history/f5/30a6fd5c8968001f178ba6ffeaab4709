@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Sw_Ro_Cam" location="D:/Mukesh/Sw_Ro_Cam/Sw_Ro_Cam" platform="C:/Users/Booh/OneDrive/Documents/FPGA-Cam/Final_Copy/Sw_Ro_Cam/Sw_Ro_Cam/system_wrapper/export/system_wrapper/system_wrapper.xpfm" platformUID="xilinx:zybo-z7-20::0.0(custom)" systemProject="Sw_Ro_Cam_system" sysConfig="system_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" language="CPP" mssSignature="14e1173660878b65ba22a20fd777a9db">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.909557053">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.707164578" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,11 @@
+20:29:35 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\Booh\OneDrive\Documents\FPGA-Cam\Final_Copy\Sw_Ro_Cam\Sw_Ro_Cam\Sw_Ro_Cam\temp_xsdb_launch_script.tcl
+20:29:35 INFO  : Platform repository initialization has completed.
+20:29:35 INFO  : Registering command handlers for Vitis TCF services
+20:29:38 INFO  : XSCT server has started successfully.
+20:29:38 INFO  : plnx-install-location is set to ''
+20:29:38 INFO  : Successfully done setting XSCT server connection channel  
+20:29:38 INFO  : Successfully done setting workspace for the tool. 
+20:29:38 INFO  : Successfully done query RDI_DATADIR 
+20:36:57 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\Booh\OneDrive\Documents\FPGA-Cam\Final_Copy\Sw_Ro_Cam\Sw_Ro_Cam\Sw_Ro_Cam\temp_xsdb_launch_script.tcl
+20:36:57 INFO  : Platform repository initialization has completed.
+20:36:58 INFO  : Registering command handlers for Vitis TCF services
